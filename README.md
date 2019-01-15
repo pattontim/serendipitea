@@ -1,3 +1,5 @@
 # serendipitea
 
-## To access the portfolio website, visit https://pattontim.github.io/serendipitea/www/
+## Website Access
+
+To access the portfolio website, visit https://pattontim.github.io/serendipitea/www/
