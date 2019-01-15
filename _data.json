@@ -1,0 +1,26 @@
+{
+	"index": {
+		"pageTitle": "Home"
+	},
+	"about": {
+		"pageTitle": "About"
+	},
+	"products": {
+		"pageTitle": "Products"
+	},
+	"store": {
+		"pageTitle": "Store"
+	},
+	"gallery":	{
+		"pageTitle": "Gallery"
+	},
+	"menu":	{
+		"pageTitle": "Menu"
+	},
+	"about":	{
+		"pageTitle": "About"
+	},
+	"blog":	{
+		"pageTitle": "Blog"
+	}
+}
